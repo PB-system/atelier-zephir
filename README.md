@@ -14,3 +14,7 @@ Deux parcours : **DU PaRéO** (chiffres ronds) et **DSCG / Master** (deux décim
 - `fichiers.js` : fichiers à télécharger
 
 Ouvrir `index.html` dans un navigateur, ou le publier sur un hébergement statique.
+
+## Classeur Excel
+
+- `classeurs/Atelier_Zephyr_DU_DSCG.xlsx` : leçons, exercices, simulation individuelle (DU) et projet d'écarts (DSCG). Les onglets « Corrigé » contiennent les réponses : à retirer avant de diffuser le classeur aux étudiants.
